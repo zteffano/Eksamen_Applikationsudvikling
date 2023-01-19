@@ -1,6 +1,5 @@
 # Eksamensspørgsmål Applikationsudvikling
-## 1 Semester PB. IT-Arkitektur
-### Steffan Møller Nielsen PBI22
+## 1 Semester PB. IT-Arkitektur - Steffan Møller Nielsen
 
 ## Beskrivelse
 
