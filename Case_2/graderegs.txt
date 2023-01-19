@@ -21,6 +21,11 @@
             "grades": {
                 "flyvning": 12
             }
+        },
+        "svend laursen": {
+            "grades": {
+                "fysik": 10
+            }
         }
     }
 }
