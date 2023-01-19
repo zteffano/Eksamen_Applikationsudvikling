@@ -1,0 +1,24 @@
+{
+    "PythonDK": {
+        "attendees": [
+            {
+                "name": "Hans Jensen",
+                "email": "supermand@mail.dk",
+                "company": "Novo Fjordisk",
+                "city": "Aalborg"
+            },
+            {
+                "name": "Svend Hansen",
+                "email": "svend@mail.dk",
+                "company": "Carlsborg",
+                "city": "K\u00c3\u00b8benhavn"
+            },
+            {
+                "name": "Steffan Nielsen",
+                "email": "stef833@piba.dk",
+                "company": "IBA",
+                "city": "Vejle"
+            }
+        ]
+    }
+}

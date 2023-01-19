@@ -1,0 +1,26 @@
+{
+    "students": {
+        "jesper hansen": {
+            "grades": {
+                "matematik": 7,
+                "engelsk": 12,
+                "dansk": 7
+            }
+        },
+        "lars jensen": {
+            "grades": {
+                "dansk": 7
+            }
+        },
+        "steffan": {
+            "grades": {
+                "dansk": -3
+            }
+        },
+        "supermand": {
+            "grades": {
+                "flyvning": 12
+            }
+        }
+    }
+}
