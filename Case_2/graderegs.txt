@@ -14,7 +14,7 @@
         },
         "steffan": {
             "grades": {
-                "dansk": -3
+                "historie": 10
             }
         },
         "supermand": {
